@@ -1,0 +1,15 @@
+.notes{
+    background-color: rgb(207, 207, 59);
+    border-radius: 10px;
+    padding: 1rem;
+    min-height:200px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    color: black;
+}
+.note-footer{
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+}
